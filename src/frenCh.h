@@ -54,7 +54,7 @@ typedéfini void         vide;
 #define plus_grand      >
 #define plus_petit      <
 #define égal            =
-#define augmentation    ++
+#define augmente        ++
 #define décrément       --
 #define plus            +
 #define moins           -

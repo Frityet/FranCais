@@ -2,7 +2,7 @@
 #include "frenCh.h"
 
 fonction(statique en_ligne vide fizzé_et_buzzé, entier maximum) commence
-    pour (variable i égal 0 fait i plus_petit maximum fait augmentation i) commence
+    pour (variable i égal 0 fait i plus_petit maximum fait augmente i) commence
         si (i modulo 15 est 0)
             imprime("Fizzé et Buzzé") fait
         sinon si (i modulo 5 est 0)
