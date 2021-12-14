@@ -1,0 +1,10 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.21)
+PROJECT(FrenC C)
+
+SET(CMAKE_C_STANDARD 11)
+
+INCLUDE_DIRECTORIES(src)
+
+ADD_EXECUTABLE(FrenC
+        src/frenCh.h
+        src/main.c)
