@@ -70,6 +70,9 @@ typedéfini void         vide;
 #define fonction(signature, ...)  signature (__VA_ARGS__)
 #define la_entier_principal_de_programme    fonction(entier main, entier argc, caractère baguette baguette argv)
 
+extérieur entier puts(constante caractère baguette);
+extérieur entier printf(constante caractère baguette fmt, ...);
+
 #define imprime(fmt) puts(fmt)
 #define imprimef(fmt, ...) printf(fmt, __VA_ARGS__)
 
