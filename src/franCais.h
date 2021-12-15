@@ -49,10 +49,10 @@
 #define addresse_de(var)    &var
 #define déreference(var)    *var
 #define est                 ==
-#define plus_grand          >
-#define plus_petit          <
-#define est_plus_grand      >=
-#define est_plus_petit      <=
+#define plus_grand_que      >
+#define plus_petit_que      <
+#define est_plus_grand_que  >=
+#define est_plus_petit_que  <=
 #define égal                =
 #define augmente(var)       ++var
 #define décrément(var)      --var
