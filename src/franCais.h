@@ -2,8 +2,8 @@
 // Created by Frityet on 2021-12-14.
 //
 
-#ifndef FREN_C_H
-#define FREN_C_H
+#ifndef FRAN_C_AIS
+#define FRAN_C_AIS
 
 #define registre            register
 #define non_signé           unsigned
@@ -95,4 +95,4 @@ fonction(extérieur longue strtol, constante caractère baguette str, constante 
 #define ficelle_à_entier(str) strtol(str, nul, 0)
 
 
-#endif //FREN_C_H
+#endif //FRAN_C_AIS
