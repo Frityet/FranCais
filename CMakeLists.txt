@@ -6,5 +6,5 @@ SET(CMAKE_C_STANDARD 11)
 INCLUDE_DIRECTORIES(src)
 
 ADD_EXECUTABLE(FrenC
-        src/frenCh.h
+        src/franCais.h
         src/main.c)
