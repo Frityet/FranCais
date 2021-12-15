@@ -18,7 +18,7 @@
 #define constante       const
 #define statique        static
 #define extérieur       extern
-#define explosif        volatile //yeah idk`
+#define explosif        volatile //yeah idk
 #define en_ligne        inline
 
 #define immeuble        struct
